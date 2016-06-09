@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /app/nodeappexample
-npm stop
+service apache2 stop
